@@ -1,1 +1,2 @@
-# FUCK YOU, DON'T READ ME!!!!!!!!!
+# Git er god!
+### Hello, world
